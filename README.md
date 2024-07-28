@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushka24s
 - 👀 I’m interested in power and development
 - 🌱 I’m currently learning WEB-D
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me (email-23bee006@smvdu.ac.in)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: if i reach my full potential i'll take over GIThub!
