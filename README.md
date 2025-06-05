@@ -3,12 +3,11 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZuMzUxcnZiNnF6Njhram4xeHB0YjdtZGFtZnltd3ZsdDFsZXQwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="MasterHead" />
   </a>
 </p>
+
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">I Make APPs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka24s&label=Profile%20views&color=0e75b6&style=flat" alt="anushka24s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka24s" alt="anushka24s" /></a> </p>
 
 - 🔭 I’m currently working on [RESTful API](https://github.com/Anushka24s/Jobdekho)
 
@@ -41,7 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka24s&show_icons=true&locale=en" alt="anushka24s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka24s&" alt="anushka24s" /></p>
-
 
 
 
